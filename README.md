@@ -13,8 +13,18 @@ The project provides several solutions for FLIR Lepton based on Microchip's MCUs
 
 ## Genius54
 
-![Genius54](png/Genius54.png)
+<img src="png/E54FLIR2.png" alt="E54FLIR2" style="zoom:50%;" />
 
-## SAMA5D2
+![E54FLIR](png/E54FLIR.png)
+
+
+
+## PoE
+
+The PoE Module is optional. 
+
+![E54FLIR_PoE](png/E54FLIR_PoE.png)
+
+## SAMA5D2![E54FLIR2](pngE54FLIR2.png)
 
 ![SAMA5D2](png/SAMA5D2.jpg)
