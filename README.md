@@ -25,6 +25,16 @@ The PoE Module is optional.
 
 ![E54FLIR_PoE](png/E54FLIR_PoE.png)
 
-## SAMA5D2![E54FLIR2](pngE54FLIR2.png)
+## SAMA5D2
 
 ![SAMA5D2](png/SAMA5D2.jpg)
+
+## Solutions for Multiple Sensors
+
+## PoE Solutions:
+
+![solution_PoE](png/solution_PoE.png)
+
+## USB Solutions:
+
+![E54FLIR_Solution_USB](png/E54FLIR_Solution_USB.png)
